@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\filip\\rv4mod2025.2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filip\\rv4mod2025.2\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@a13a7f124290\\Runtime\\Locomotion\\LocomotionSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@a13a7f124290\\Runtime\\Locomotion\\LocomotionSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AC3EA53-1614-C939-AE4F-36E8E283824B}|Assembly-CSharp.csproj|c:\\users\\filip\\rv4mod2025.2\\assets\\oculus hands\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AC3EA53-1614-C939-AE4F-36E8E283824B}|Assembly-CSharp.csproj|solutionrelative:assets\\oculus hands\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LocomotionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\rv4mod2025.2\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@a13a7f124290\\Runtime\\Locomotion\\LocomotionSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@a13a7f124290\\Runtime\\Locomotion\\LocomotionSystem.cs",
+              "ToolTip": "C:\\Users\\filip\\rv4mod2025.2\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@a13a7f124290\\Runtime\\Locomotion\\LocomotionSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@a13a7f124290\\Runtime\\Locomotion\\LocomotionSystem.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:42:07.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HandAnimation.cs",
               "DocumentMoniker": "C:\\Users\\filip\\rv4mod2025.2\\Assets\\Oculus Hands\\HandAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Oculus Hands\\HandAnimation.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InputActionManager.cs",
               "DocumentMoniker": "C:\\Users\\filip\\rv4mod2025.2\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@a13a7f124290\\Runtime\\Inputs\\InputActionManager.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@a13a7f124290\\Runtime\\Inputs\\InputActionManager.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@a13a7f124290\\Runtime\\Inputs\\InputActionManager.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T23:36:05.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T23:36:05.633Z"
             }
           ]
         },
