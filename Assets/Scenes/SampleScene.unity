@@ -1245,7 +1245,7 @@ MonoBehaviour:
   drawer: {fileID: 682728408}
   closedLocalPos: {x: 0.2835617, y: 0.428, z: 0}
   openLocalPos: {x: 0.718, y: 0.428, z: 0}
-  speed: 3
+  speed: 9
 --- !u!1001 &710623753
 PrefabInstance:
   m_ObjectHideFlags: 0
