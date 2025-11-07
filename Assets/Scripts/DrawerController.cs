@@ -31,9 +31,4 @@ public class DrawerController : MonoBehaviour, IActivatable
         }
         drawer.localPosition = targetPos;
     }
-        void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.O)) Activate();   // tecla O abre
-        if (Input.GetKeyDown(KeyCode.P)) Deactivate(); // tecla P fecha
-    }
 }
